@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Muhammed Ajnan and I'm a Developer, from Kerala, India</h1>
+<h1 align="center">Hi 👋! I'm Muhammed Ajnan P <br> A Developer && Designer from Kerala, India</h1>
 
 ###
 
