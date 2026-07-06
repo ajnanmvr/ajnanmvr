@@ -1,65 +1,183 @@
-<h1 align="center">Hi 👋! I'm Muhammed Ajnan P <br> A Developer & Designer from Kerala, India</h1>
+<h1 align="center">Hi, I'm Muhammed Ajnan P 👋</h1>
 
-###
+<h3 align="center">
+  Full Stack Developer building production web and mobile products
+</h3>
+
+<p align="center">
+  React · Next.js · React Native · Node.js · TypeScript
+</p>
+
+<p align="center">
+  <a href="https://ajnan.dev">Portfolio</a> •
+  <a href="https://linkedin.com/in/ajnanmvr">LinkedIn</a> •
+  <a href="mailto:ajnanpulikkathody@gmail.com">Email</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Full Stack Developer with 3+ years of experience building and shipping production web and mobile applications.
+
+I work across the full product lifecycle — from architecture and UI development to backend APIs, deployment, monitoring, and app store releases.
+
+- 📱 Shipped cross-platform mobile apps to Google Play and the App Store
+- 🏢 Built a business operations platform serving 650+ clients
+- 📊 Developed systems handling 25,000+ production entries
+- 🎓 Built CRM and ERP workflows supporting education operations
+- 🚀 Experienced in taking products from idea to production
+- 📍 Based in Bangalore, India
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite" />
+</p>
+
+**React.js · Next.js · React Native · Expo · TypeScript · Tailwind CSS · Zustand · TanStack Query · Zod**
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,redis,prisma" />
+</p>
+
+**Node.js · Express.js · NestJS · REST APIs · GraphQL · tRPC · MongoDB · PostgreSQL · Redis · Prisma**
+
+### Infrastructure & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,figma,postman" />
+</p>
+
+**AWS EC2 · AWS S3 · CI/CD · Turborepo · EAS Build · Sentry · Inngest · Git**
+
+---
+
+## 🚀 Selected Work
+
+### 📱 HyperJobs
+
+Cross-platform job placement platform built with React Native and Expo.
+
+Worked across:
+
+- Mobile application architecture
+- Authentication and onboarding flows
+- Job discovery and application workflows
+- Company dashboard
+- CRM lead pipelines
+- Automated operational reporting
+- Production monitoring
+- App Store and Play Store deployment
+
+**Stack:** React Native, Expo, TypeScript, Zustand, TanStack Query, Zod, Redis
+
+---
+
+### 🎓 AMSET App
+
+Learning management mobile application featuring:
+
+- Video course learning
+- Live class scheduling
+- Certification workflows
+- Student management
+- Content administration
+- VR booking workflows
+
+**Stack:** React Native, Expo, TypeScript, TanStack Query, Zustand
+
+---
+
+### 🏢 Zaad Business Operations Platform
+
+Custom business management platform built for a UAE consultancy.
+
+The system supports:
+
+- 650+ active clients
+- 25,000+ production entries
+- Invoicing and payment receipts
+- Income and expense management
+- Client-wise ledgers
+- Liabilities and credit/debit tracking
+- Employee grouping
+- Document expiry and renewal tracking
+- Role-based access control
+- Business analytics dashboards
+
+**Stack:** Next.js, TypeScript, Node.js, MongoDB
+
+---
+
+### 🏫 Zidnee School CRM & ERP
+
+Built a CRM and operational management system covering:
+
+- Lead capture
+- Counsellor follow-ups
+- Student enrollment
+- Mentor assignment
+- Dropout tracking
+- Operational dashboards
+- Data collection workflows
+
+The platform supports operations involving **10 counsellors and 100+ mentors**.
+
+**Stack:** React, Vite, TypeScript, Express.js, MongoDB, Zod, TanStack Query, Turborepo, AWS S3
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajnanmvr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajnanmvr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ajnanmvr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+    height="160"
+    alt="GitHub statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajnanmvr&layout=compact&langs_count=6&hide_border=true"
+    height="160"
+    alt="Most used languages"
+  />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.tenor.com/lNtmoshuUI8AAAAj/bahroo-hacker.gif"  />
+## 🏆 Highlights
 
-###
+- 🥇 1st Prize — GTA Sandshores Hackathon, 2023
+- 🥇 1st Prize — Realia'23 Web Development Competition
+- 🥉 3rd Prize — QUL'23 Web Design Competition
+- 📜 HackerRank Frontend Developer (React) Certificate
+- 📜 HackerRank React Certificate
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+---
 
-###
+## 🤝 Let's Connect
 
-<div align="center">
-  <a href="https://www.instagram.com/_ajna.n_z1_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+I'm currently open to opportunities in:
+
+**Full Stack Development · Frontend Development · React Development · React Native Development**
+
+<p>
+  <a href="mailto:ajnanpulikkathody@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="ajnanpulikkathody@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
+  <a href="https://linkedin.com/in/ajnanmvr">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammed-ajnan-095993198/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
+  <a href="https://ajnan.dev">
+    <img src="https://img.shields.io/badge/Portfolio-ajnan.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://t.me/tryangle_solutions" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-###
+</p>
