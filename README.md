@@ -61,6 +61,8 @@ I work across the full product lifecycle — from architecture and UI developmen
 
 ## 🚀 Selected Work
 
+> Most of the work below was built for clients and employers under private repositories. Where code isn't public, I've linked a case study or demo instead.
+
 ### 📱 HyperJobs
 
 Cross-platform job placement platform built with React Native and Expo.
@@ -76,7 +78,9 @@ Worked across:
 - Production monitoring
 - App Store and Play Store deployment
 
-**Stack:** React Native, Expo, TypeScript, Zustand, TanStack Query, Zod, Redis
+**Stack:** React Native, Expo, TypeScript, Zustand, TanStack Query, Zod
+
+**Links:** Client project — code private · [Case study / demo](#) <!-- add link -->
 
 ---
 
@@ -92,6 +96,8 @@ Learning management mobile application featuring:
 - VR booking workflows
 
 **Stack:** React Native, Expo, TypeScript, TanStack Query, Zustand
+
+**Links:** Client project — code private · [Case study / demo](#) <!-- add link -->
 
 ---
 
@@ -114,6 +120,8 @@ The system supports:
 
 **Stack:** Next.js, TypeScript, Node.js, MongoDB
 
+**Links:** Client project — code private · [Case study / demo](#) <!-- add link -->
+
 ---
 
 ### 🏫 Zidnee School CRM & ERP
@@ -132,23 +140,13 @@ The platform supports operations involving **10 counsellors and 100+ mentors**.
 
 **Stack:** React, Vite, TypeScript, Express.js, MongoDB, Zod, TanStack Query, Turborepo, AWS S3
 
+**Links:** Client project — code private · [Case study / demo](#) <!-- add link -->
+
 ---
 
-## 📊 GitHub Stats
+## 📌 Pinned Projects
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ajnanmvr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-    height="160"
-    alt="GitHub statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajnanmvr&layout=compact&langs_count=6&hide_border=true"
-    height="160"
-    alt="Most used languages"
-  />
-</div>
+Check out my pinned repositories above for code samples and personal projects — the best place to see my code directly, since most client work above lives in private repos.
 
 ---
 
@@ -162,21 +160,17 @@ The platform supports operations involving **10 counsellors and 100+ mentors**.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Open to Opportunities
 
-I'm currently open to opportunities in:
-
-**Full Stack Development · Frontend Development · React Development · React Native Development**
+**Full Stack Development · Frontend Development · React Development · React Native Development** — based in Bangalore.
 
 <p>
   <a href="mailto:ajnanpulikkathody@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://linkedin.com/in/ajnanmvr">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://ajnan.dev">
     <img src="https://img.shields.io/badge/Portfolio-ajnan.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
